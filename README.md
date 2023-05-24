@@ -11,6 +11,7 @@
 
 ## 已转换翻译源
 
- - source001 [http://www.mckinsey.com/insights/rss](http://www.mckinsey.com/insights/rss) -> [mckinsey_rss.xml](rss/mckinsey_rss.xml)
- - source002 [http://www.mckinsey.com/insights/rss](http://www.mckinsey.com/insights/rss) -> [mckinsey_iw_rss.xml](rss/mckinsey_iw_rss.xml)
- - source003 [http://rss.acast.com/nature](http://rss.acast.com/nature) -> [nature_rss.xml](rss/nature_rss.xml)
+ - source001 [https://www.moguravr.com/category/virtual-youtuber/feed/](https://www.moguravr.com/category/virtual-youtuber/feed/) -> [moguravr_rss.xml](rss/moguravr_rss.xml)
+ - source002 [https://p2y.jp/feed/](https://p2y.jp/feed/) -> [p2y_rss.xml](rss/p2y_rss.xml)
+ - source003 [http://panora.tokyo/feed/](http://panora.tokyo/feed/) -> [panora_rss.xml](rss/panora_rss.xml)
+ - source004 [https://www.mangasokuhou.com/?feed=rss2](https://www.mangasokuhou.com/?feed=rss2) -> [mangasokuhou_rss.xml](rss/mangasokuhou_rss.xml)
