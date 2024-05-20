@@ -1,1 +1,1 @@
-<br/><b>致命错误</b>：require()：无法打开所需的&#39;/home/p2y/p2y.jp/public_html/wp-blog-header.php&#39;(include_path=&#39;.:/opt/php-7.4.33-2/data/pear &#39;) 在<b>/home/p2y/p2y.jp/public_html/index.php</b>第<b>17</b>行<br/>
+<br/><b>警告</b>：require（/home/p2y/p2y.jp/public_html/wp-blog-header.php）：无法打开流： <b>/home/p2y/p2y.jp/public_html/index.php</b>中没有这样的文件或目录<b>17号</b>线<br/><br/><b>致命错误</b>：require()：无法打开所需的&#39;/home/p2y/p2y.jp/public_html/wp-blog-header.php&#39;(include_path=&#39;.:/opt/php-7.4.33-2/data/pear &#39;) 在<b>/home/p2y/p2y.jp/public_html/index.php</b>第<b>17</b>行<br/>
