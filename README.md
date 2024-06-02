@@ -12,6 +12,5 @@
 ## 已转换翻译源
 
  - source001 [https://www.moguravr.com/category/virtual-youtuber/feed/](https://www.moguravr.com/category/virtual-youtuber/feed/) -> [moguravr_rss.xml](rss/moguravr_rss.xml)
- - source002 [https://p2y.jp/feed/](https://p2y.jp/feed/) -> [p2y_rss.xml](rss/p2y_rss.xml)
  - source003 [http://panora.tokyo/feed/](http://panora.tokyo/feed/) -> [panora_rss.xml](rss/panora_rss.xml)
  - source004 [https://www.mangasokuhou.com/?feed=rss2](https://www.mangasokuhou.com/?feed=rss2) -> [mangasokuhou_rss.xml](rss/mangasokuhou_rss.xml)
